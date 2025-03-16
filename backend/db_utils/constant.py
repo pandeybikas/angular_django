@@ -1,1 +1,4 @@
 import os
+
+
+WATER_DEPLETION_TBL=os.getenv('WATER_USGAGE_TABLE')
